@@ -1,0 +1,27 @@
+.bgGris{
+    background: #f2f2f2;
+}
+
+.pText{
+    font-size: 1.4em;
+    text-align: justify;
+
+}
+
+.shadow{
+    -webkit-box-shadow: 3px 7px 10px 11px rgba(0,0,0,0.72);
+-moz-box-shadow: 3px 7px 10px 11px rgba(0,0,0,0.72);
+box-shadow: 3px 7px 10px 11px rgba(0,0,0,0.72);
+
+}
+
+.pageTitle{
+    color: #19354F;
+    font-weight: bold;
+}
+
+.titleCards{
+    color: #19354F;
+    font-size: 1.7em;
+    font-weight: bold;
+}

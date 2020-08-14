@@ -1,0 +1,34 @@
+.navWhite{
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.top-nav-collapse{
+    background: rgba(255, 255, 255, 1);
+}
+
+.top-nav-collapse .nav-link{
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+.btn-primaryWS{
+    background: #6d6f71;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+.btn-primaryWS:hover{
+    background: #ffffff;
+    color: #19354f;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+.stickyBotom{
+    position: sticky;
+    bottom: 0;
+}

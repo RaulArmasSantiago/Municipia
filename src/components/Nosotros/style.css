@@ -1,0 +1,24 @@
+.bg-gris{
+    background: #f2f2f2;
+}
+
+.pageText{
+    font-size: 1.3em;
+    text-align: justify;
+}
+
+.pageTitle{
+    color: #19354F;
+}
+
+body{
+    background: #ffffff;
+}
+
+.altoMV{
+    height: 200px;
+}
+
+.alingImg{
+    vertical-align: middle;
+}

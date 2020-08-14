@@ -1,0 +1,22 @@
+.textCareer{
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+.bg-blueMuni{
+    text-align: left;
+    background: #19354f;
+}
+
+.titleVacante{
+    font-weight: bold;
+}
+
+.text-blueMuni{
+    color: #19354f;
+}
+
+h6{
+    font-weight: bold;
+    font-size: 1.2em;
+}

@@ -1,0 +1,36 @@
+.textHeaderHome{
+    font-size: 1.3em;
+    color: white;
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../../Assets/portada.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.headerPage {
+    height: 40vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../../Assets/portada.jpg');
+}
+
+.marginTop{
+    margin-top: 30px;
+}
+
+
+.titleHome{
+    color: white;
+}
+
+.fondoPageHeader{
+    height: 100vh;
+    background-image: url('../../Assets/logo100x45.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
